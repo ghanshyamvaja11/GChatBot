@@ -8,14 +8,13 @@
 }
 
 body {
-  background: #343541;
+  background: #344141;
 }
 
 #app {
   width: 100vw;
-  height: 100vh;
-  background: #343541;
-
+  height: 96vh;
+  background: #1e2782;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -50,14 +49,13 @@ body {
 }
 
 .ai {
-  background: #40414F;
+  background: #040622;
 }
 
 .chat {
   width: 100%;
   max-width: 1280px;
   margin: 0 auto;
-
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -88,7 +86,6 @@ body {
 
 .message {
   flex: 1;
-
   color: #dcdcdc;
   font-size: 20px;
 
@@ -117,7 +114,7 @@ form {
   max-width: 1280px;
   margin: 0 auto;
   padding: 10px;
-  background: #40414F;
+  background: #1e3b52;
 
   display: flex;
   flex-direction: row;
